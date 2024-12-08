@@ -1,4 +1,4 @@
-# Aquaculture-Suitability
+# Mapping Aquaculture Suitability within EEZ Zones Along the West Coast of the US
 
 ![Lobster in the sea. Source: English Plus Podcast](https://englishpluspodcast.com/wp-content/uploads/2022/01/Episode-13-Lobsters.jpg)
 ## Purpose
