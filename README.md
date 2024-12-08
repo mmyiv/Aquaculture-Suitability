@@ -49,7 +49,7 @@ All data was placed in the data folder and was read in using R.
 
   "Sea Life Base", "Palomares, M.L.D. and D. Pauly. Editors. 2024. SeaLifeBase. World Wide Web electronic publication. Retrieved: 11/14/24 from www.sealifebase.org, version (08/2024).","[Lobster Data ](https://www.sealifebase.ca/summary/Homarus-americanus.html)", 
    
-  "Sea Surface Temperature Data", "NOAA Coral Reef Watch Version 3.1 (2018). Retrieved: 11/14/24", "[SST Data](https://coralreefwatch.noaa.gov/product/5km/index_5km_ssta.php)",
+  "Sea Surface Temperature Data", "NOAA Coral Reef Watch Version 3.1 (2018). Retrieved: 11/14/24 from https://coralreefwatch.noaa.gov/product/5km/index_5km_ssta.php", "[SST Data](https://coralreefwatch.noaa.gov/product/5km/index_5km_ssta.php)",
   
   "Bathymetry Data", "British Oceanographic Data Centere. Retrieved 11/14/24 from https://www.gebco.net/data_and_products/gridded_bathymetry_data/#area", "[Depth Data](https://www.gebco.net/data_and_products/gridded_bathymetry_data/#area)",
   
